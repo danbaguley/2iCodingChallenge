@@ -1,0 +1,15 @@
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\bin\Debug\net9.0\2iCodingChallenge.exe
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\bin\Debug\net9.0\2iCodingChallenge.deps.json
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\bin\Debug\net9.0\2iCodingChallenge.runtimeconfig.json
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\bin\Debug\net9.0\2iCodingChallenge.dll
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\bin\Debug\net9.0\2iCodingChallenge.pdb
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\obj\Debug\net9.0\2iCodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\obj\Debug\net9.0\2iCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\obj\Debug\net9.0\2iCodingChallenge.AssemblyInfo.cs
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\obj\Debug\net9.0\2iCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\obj\Debug\net9.0\2iCodingChallenge.sourcelink.json
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\obj\Debug\net9.0\2iCodingChallenge.dll
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\obj\Debug\net9.0\refint\2iCodingChallenge.dll
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\obj\Debug\net9.0\2iCodingChallenge.pdb
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\obj\Debug\net9.0\2iCodingChallenge.genruntimeconfig.cache
+C:\Users\Dan\Desktop\2i Coding Challenge\2iCodingChallenge\obj\Debug\net9.0\ref\2iCodingChallenge.dll
