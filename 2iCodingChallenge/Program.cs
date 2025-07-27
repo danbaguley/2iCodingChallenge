@@ -8,7 +8,7 @@ namespace _2iCodingChallenge
     {
         static void Main(string[] args)
         {
-            var input = new List<string> { "abc123", "a1b2c3", "36z" };
+            var input = new List<string> { "abc123", "a1b2c3ad11", "329z" };
             int result = DigitSum.LargestDigitSum(input);
             Console.WriteLine($"Largest digit sum: {result}");
         }
